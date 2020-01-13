@@ -5,6 +5,7 @@ tree
 jq
 software-properties-common
 certbot
+python3-certbot-dns-cloudflare
 
 #editors
 vim
