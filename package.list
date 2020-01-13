@@ -3,6 +3,8 @@ git
 direnv
 tree
 jq
+software-properties-common
+certbot
 
 #editors
 vim
